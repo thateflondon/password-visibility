@@ -51,6 +51,7 @@ button {
     text-transform: uppercase;
     letter-spacing: 1px;
     background: linear-gradient(to left, #eb86a8, #f0847c);
+    cursor: pointer;
 }
 
 .show, .hide {
